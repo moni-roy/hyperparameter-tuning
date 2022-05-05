@@ -1,1 +1,1 @@
-# hyperparameter-tuning
+# Hyperparameter tuning using Bayesian optimization
